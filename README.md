@@ -5,4 +5,4 @@ Tribute page built using:
 * CSS
 * Bootstrap
 
-live: https://htmlpreview.github.io/?https://github.com/MartaNiemiec/Tribute-page/blob/master/Tribute%20Page.html
+live: https://martaniemiec.github.io/Tribute-page/Tribute%20Page.html
